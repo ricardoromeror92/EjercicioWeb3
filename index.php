@@ -4,7 +4,7 @@ require_once("View/layouts/header.php");
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 <div>
-    <h1 class="text-center">Determinar si un numero es divisible entre otro</h1>
+    <h1 class="text-center">Calcular Factorial</h1>
     <div class="text-center">
         <label>Numero a calcular:</label><br>
         <input type="text" id="factorial"><br><br>
